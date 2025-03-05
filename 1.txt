@@ -1,1 +1,7 @@
 为什么这次没找我要密码？
+原来是用了http
+git remote -v
+这个查看
+
+git remote set-url origin git@github.com:th0nly/webcrawler1_KIT_ETIT.git
+这个设置
